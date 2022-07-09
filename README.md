@@ -8,9 +8,9 @@ The programs are published on a 3.5" diskette  "© H.Lauwerier, 1994 ISBN 90 395
 
 The project is actually for Visual Studio 2019.
 It consists of 
-* 1 module with a forn and a picturebox, that displays the graphics created by the various programs. This module selects a GWBasic program, one at a time;
-* 1 module, that contains the C# code to implement the GWbasic functions such as WINDOW, LINE, PSET, CLS, PRINT, etc, so stay as close as possible to the basic source;
-* 1 module for each of the 80 programs that Prof Lauwerier created an explaned in the book. 
+* 1 module (pc,cs) with a form and a picturebox, that displays the graphics created by the various programs. This module selects a GWBasic program, one at a time;
+* 1 module (gw.cs), that contains the C# code to implement the GWbasic functions such as WINDOW, LINE, PSET, CLS, PRINT, etc, so stay as close as possible to the basic source;
+* 1 module for each of the 80 programs that Prof Lauwerier created and explained in the book. 
 
 I omited the programs to introduce you to GWbasic on a 8088 or 80286.
 I also omitted the programs about Conway's "game of life" for which there exist too many copies on the internet already.

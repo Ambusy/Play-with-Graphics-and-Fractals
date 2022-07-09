@@ -2,7 +2,7 @@
 
 C# version of almost all the program examples from prof. Hans Lauwerier's book "Spelen met Graphics en Fractals" from 1994.
 
-The programs are published on a 3.5" diskette  "© H.Lauwerier, 1994 ISBN 90 395 0092 4". Prof. Lauwerier died many years ago, the publisher "Academic Services" apparently no longer exists, or else I am unable to find them on the internet. For this project I claim the "fair use" right to use the source as a base on which I develloped my version of the programs. If a copyright holder exists, please contact me to allow this pubblication or to remove it, as requested.
+The programs are published on a 3.5" diskette  "© H.Lauwerier, 1994 ISBN 90 395 0092 4". Prof. Lauwerier died many years ago, the publisher "Academic Services" apparently no longer exists, or else I am unable to find them on the internet. For this project I claim the "fair use" right to use the source as a base on which I develloped my version of the programs. If a copyright holder exists, please contact me to allow this pubblication or to remove it, as requested. At the time of uploading this project a pdf version of the book (in Dutch) was available on https://ia902908.us.archive.org/30/items/spelenmetgraphicsenfractalshanslauwerier1994/Spelen%20met%20Graphics%20en%20Fractals%20-%20Hans%20Lauwerier%20-%201994.pdf
 
 
 

@@ -98,9 +98,6 @@ namespace Graphics_boek
             }
             // REM ***hoofdprogramma***
             //    FOR I=0 TO N1 : FOR J=-N3 TO N2
-            Debug.WriteLine("10,10 "+ GW.TransformX(10).ToString() + " " + GW.TransformY(10).ToString());
-            Debug.WriteLine("11,11 "+ GW.TransformX(11).ToString() + " " + GW.TransformY(11).ToString());
-            Debug.WriteLine("12,12 "+ GW.TransformX(12).ToString() + " " + GW.TransformY(12).ToString());
             for (I = 0; I <= N1; I++)
             {
                 for (J = -N3; J <= N2; J++)
